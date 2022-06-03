@@ -16,7 +16,7 @@ It's been far too long since the Brainfuck programming language has been updated
 
 ### Even more Brainfuckery, even more power
 
-- Every character takes approximately half a second to print, keeping you at the edge of your desk, hooked until the very end of printing your tiny ass string! (feature added for extra Brainfuckery)
+- Every command takes approximately half a second to print, keeping you at the edge of your desk, hooked until the very end of printing your tiny ass string! (feature added for extra Brainfuckery)
 
 - Syntax like you've never seen before (it'll make you wanna die!)
 
