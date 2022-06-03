@@ -1,4 +1,4 @@
-# Brainfuck. Reimagined
+# Brainfuck. Reimagined.
 
 I welcome you to Brainfuck 2.
 
@@ -57,3 +57,6 @@ note: it likes to curse..
 
 anyway, enjoy your new Brainfuckery :)
 
+
+
+(this is a joke programming language, i do not own Brainfuck or any rights to it, nor do i claim to do so)
